@@ -33,7 +33,7 @@ This project aims to make that prediction **simple, explainable, and usable**.
 
 ### 📊 Dataset
 - Physics-inspired synthetic dataset  
-- ~2200 samples  
+- ~2200 samples used
 - Realistic orbital parameter ranges  
 
 **Key features:**
